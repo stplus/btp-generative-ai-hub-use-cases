@@ -23,7 +23,7 @@ spec:
     spec: |
       predictor:
         imagePullSecrets:
-        - name: docker-secret
+        - name: docker-secret2
         minReplicas: 1
         maxReplicas: 1
         containers:
