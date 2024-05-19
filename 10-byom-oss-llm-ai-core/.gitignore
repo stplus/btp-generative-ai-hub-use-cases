@@ -2,3 +2,5 @@
 
 byom-oss-llm-code/config.json
 oss-llm-env
+byom-oss-llm-code/venv
+.ipynb_checkpoints
